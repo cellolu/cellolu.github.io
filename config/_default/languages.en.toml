@@ -9,18 +9,18 @@ title = "CelloLu's Little World"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/cello-logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  # logo = "img/cello-logo.jpg"
+  # secondaryLogo = "img/cello-logo.jpg"
   description = "CelloLu's Personal Website"
   copyright = "© 2024 CelloLu & debidong"
 
 [params.author]
   name = "CelloLu"
   email = "minghua0130@gmail.com"
-#   image = "img/blowfish_logo.png"
+  # image = "img/cellolu.top.avator.jpg"
 #   imageQuality = 96
-  headline = "I love cello, and life."
-  bio = "A little bit about me."
+  headline = "Love cello, and life."
+  bio = "Dedicated to sharing the beauty and depth of music with the world."
   links = [
     { email = "minghua0130@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
@@ -32,7 +32,7 @@ title = "CelloLu's Little World"
 #     { dev = "https://dev.to/username" },
 #     { discord = "https://discord.gg/invitecode" },
 #     { dribbble = "https://dribbble.com/username" },
-    # { facebook = "https://facebook.com/minghualu" },
+    { facebook = "https://www.facebook.com/profile.php?id=61556274262511" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
 #     { github = "https://github.com/username" },

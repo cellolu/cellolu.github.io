@@ -9,6 +9,16 @@
     <managingEditor>minghua0130@gmail.com (CelloLu)</managingEditor>
     <webMaster>minghua0130@gmail.com (CelloLu)</webMaster>
     <copyright>© 2024 CelloLu &amp; debidong</copyright>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Here is something about me...</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+      <author>minghua0130@gmail.com (CelloLu)</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/featured-lu-cellist-fullscreen.jpg" />
+    </item>
+    
   </channel>
 </rss>
