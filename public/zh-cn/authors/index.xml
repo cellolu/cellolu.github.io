@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on CelloLu 的小世界</title>
+    <link>http://localhost:1313/zh-cn/authors/</link>
+    <description>Recent content in Authors on CelloLu 的小世界</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>minghua0130@gmail.com (CelloLu)</managingEditor>
+    <webMaster>minghua0130@gmail.com (CelloLu)</webMaster>
+    <copyright>© 2025 CelloLu &amp; debidong</copyright>
+    <lastBuildDate>Sat, 16 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CelloLu</title>
+      <link>http://localhost:1313/zh-cn/authors/cellolu/</link>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+      <author>minghua0130@gmail.com (CelloLu)</author>
+      <guid>http://localhost:1313/zh-cn/authors/cellolu/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

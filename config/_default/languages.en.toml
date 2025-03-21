@@ -1,3 +1,4 @@
+contentDir = "content/en"
 disabled = false
 languageCode = "en"
 languageName = "English"
@@ -19,7 +20,7 @@ title = "CelloLu's Little World"
   email = "minghua0130@gmail.com"
   # image = "img/cellolu.top.avator.jpg"
 #   imageQuality = 96
-  headline = "Love cello, and life."
+  headline = "Love music, love life."
   bio = "Dedicated to sharing the beauty and depth of music with the world."
   links = [
     { email = "minghua0130@gmail.com" },
