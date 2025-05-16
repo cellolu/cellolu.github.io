@@ -16,6 +16,8 @@ authors:
 **现任：**
 
 - **首席大提琴手**，University of Central Oklahoma 交响乐团及室内乐，*2025年1月至今*
+- 大提琴教师， Edmond central middle school 2025年3月至今
+- 大提琴教师，Edmond Memorial high school 2025年4月至今
 - **研究助理**，中央俄克拉荷马大学，*2024年8月至今*
 
 **曾任：**
@@ -50,6 +52,11 @@ authors:
 - 百鸟朝凤 - 传统曲目
 - c小调第五交响曲 - 路德维希·范·贝多芬
 - 第二交响曲 - 德米特里·肖斯塔科维奇
+- Theme&Variartions-A.Glazunov
+- Introduction, Theme and Variations-J.N. Hummel
+- Carmina Burana-Carl Orff
+- Sinfonie Nr.5 c- Moll ----Beethoven
+- 
 
 **现代音乐**
 
@@ -66,6 +73,16 @@ authors:
 - 《辛德勒的名单》- 约翰·威廉姆斯
 - 《第二号达农舞曲》- 阿图罗·马尔克斯
 - 《火鸟组曲》- 伊戈尔·斯特拉文斯基
+
+-独奏作品
+-贝多芬第三大提琴奏鸣曲 -贝多芬
+-海顿C大调第一大提琴协奏曲- 海顿
+-海顿D大调第二大提琴协奏曲- 海顿
+-圣桑a小调大提琴协奏曲- 圣桑
+-萨利哈之歌- 祝恒谦
+-热情的快板- 圣桑
+-音乐会波兰舞曲-波帕尔
+-回旋曲-博凯里尼
 
 ## 我的追求
 
